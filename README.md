@@ -8,3 +8,6 @@ If both monsters die, the player wins the game.
 If the hero's health points are reduced to zero, the player loses the game.
 
 Display text messages on the console to keep the player informed when something happens, e.g. "Hero hits orc. Orc health is 3". Don't include a GUI.
+
+# Next steps
+Develop and implement a simple GUI.
